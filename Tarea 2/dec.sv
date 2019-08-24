@@ -1,4 +1,6 @@
-module(input [3:0] bcd, output reg [7:0] DEC);
+module DECO(bcd, DEC);
+    input [3:0] bcd; 
+    output reg [7:0] DEC;
     always@(*)
         begin
             case(bcd)

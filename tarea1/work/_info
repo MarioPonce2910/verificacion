@@ -1,0 +1,79 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/mario.ponce.230/Desktop/sabs/saturdays/t2
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vinstancia
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 !s110 1566660326
+!i10b 1
+Z3 !s100 hhVMBz7;9ElRHaOEc4kgm2
+Z4 I[Q2icI6=?je3WVC6QHJW33
+Z5 V`JN@9S9cnhjKRR_L]QIcM3
+Z6 !s105 sumadores_sv_unit
+S1
+Z7 dC:/Users/mario.ponce.230/Desktop/Verificacion/tarea1
+Z8 w1566660318
+Z9 8C:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv
+Z10 FC:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv
+L0 27
+Z11 OL;L;10.2c;57
+r1
+!s85 0
+31
+Z12 !s108 1566660326.830000
+Z13 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv|
+!i111 0
+Z15 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vsumador
+R1
+R2
+!i10b 1
+Z16 !s100 WTTV41UYg8?629YITi1_H1
+Z17 I8SU4^BLR_m]i_PaajO:7g0
+R5
+R6
+S1
+R7
+R8
+R9
+R10
+L0 1
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i111 0
+R15
+vsumadorif
+R1
+R2
+!i10b 1
+!s100 X_N9dooZ;>]8CNYhgGID>0
+IGzk1D`L=gRJfQ3CPY72662
+R5
+R6
+S1
+R7
+R8
+R9
+R10
+L0 9
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i111 0
+R15

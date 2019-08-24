@@ -1,0 +1,11 @@
+C:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/tarea1/sumadores.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module sumador
+-- Compiling module sumadorif
+-- Compiling module instancia
+
+Top level modules:
+	sumador
+	sumadorif
+
+} {} {}}
