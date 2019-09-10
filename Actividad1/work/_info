@@ -1,0 +1,119 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1568082556
+V<hb?Bek_CKBJ]GkFie=Z[0
+Z1 04 9 4 work conect_tb fast 0
+=1-a01d48b8a0b8-5d770a7b-290-2aec
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.2c;57
+T_opt1
+VHa1gNmd0KGaR3?3:jCe<R2
+R1
+=1-a01d48b8a0b8-5d7709be-28d-5c0
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+Z3 dC:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2
+!s110 1568082367
+vconect
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z5 !s110 1568082353
+I@f6Z>V8]8Xm29<<<zS;;j3
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z7 !s105 act_sv_unit
+S1
+Z8 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
+Z9 w1568082282
+Z10 8C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/act.sv
+Z11 FC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/act.sv
+L0 34
+Z12 OL;L;10.2c;57
+r1
+31
+Z13 !s108 1568082353.330000
+Z14 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/act.sv|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/act.sv|
+Z16 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 iI5MA45@:2DVLUfHIL`FR1
+!i10b 1
+!s85 0
+!i111 0
+vconect_tb
+R4
+R5
+Ig=5[@^YigiKH3_I_d[:Y@0
+R6
+S1
+R8
+w1568082348
+8C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/tb.sv
+FC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/tb.sv
+L0 1
+R12
+r1
+31
+R16
+!s105 tb_sv_unit
+!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/tb.sv|
+!i10b 1
+!s100 hK^Og2HccL7H>K1ENnc<j0
+!s85 0
+!s108 1568082353.765000
+!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1/tb.sv|
+!i111 0
+vdesp
+R4
+R5
+I8IG?_T<_]iOPAh7NK`2Rc2
+R6
+R7
+S1
+R8
+R9
+R10
+R11
+L0 12
+R12
+r1
+31
+R13
+R14
+R15
+R16
+!s100 k30;i2=9mEJlY8n6<mc1^0
+!i10b 1
+!s85 0
+!i111 0
+vsum
+R4
+R5
+IBGIC^mFVGizR7`k?_iFk;0
+R6
+R7
+S1
+R8
+R9
+R10
+R11
+L0 1
+R12
+r1
+31
+R13
+R14
+R15
+R16
+!s100 _<=<Jc5Cb5lcQF6eZ127J1
+!i10b 1
+!s85 0
+!i111 0

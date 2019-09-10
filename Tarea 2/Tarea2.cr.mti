@@ -1,8 +1,8 @@
-{C:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2/dec.sv} {1 {vlog -work work -vopt -sv {C:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2/dec.sv}
+{C:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2/tb.sv} {1 {vlog -work work -vopt -sv {C:/Users/mario.ponce.230/Desktop/Verificacion/Tarea 2/tb.sv}
 QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
--- Compiling module DECO
+-- Compiling module tb_dec
 
 Top level modules:
-	DECO
+	tb_dec
 
 } {} {}}

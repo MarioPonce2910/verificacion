@@ -1,14 +1,14 @@
-module DECO(bcd, DEC);
-    input [3:0] bcd; 
-    output reg [7:0] DEC;
-    always@(*)
-        begin
-            case(bcd)
+module DECO(bcd, DEC); //in this line it is to start the module with inputs and outputs
+    input [3:0] bcd;  //this line describe a input signal, the signal have a 4 bits
+    output reg [7:0] DEC; //this line describe a output signal, the signal have a 7 bits
+    always@(*) // in this line it is start a always block whit all signals
+        begin   //this is for start block
+            case(bcd) //this line has a case condition
                         //DEC    ABCDEFGP
-                4'b0000:
-                    begin
-                        DEC = 8'b00000000;
-                    end
+                4'b0000: //in case of the bcd is 0
+                    begin//this is for start block
+                        DEC = 8'b00000000;// this line assign 0 to DEC signal
+                    end//this is for end block
                 4'b0001:
                     begin
                         DEC = 8'b01100000;
@@ -45,7 +45,7 @@ module DECO(bcd, DEC);
                 begin
                         DEC = 8'b11100110;
                     end            
-                default: DEC = 8'b00000001;
-            endcase
-        end
-endmodule
+                default: DEC = 8'b00000001; 
+            endcase//this is for end case block
+        end//this is for end block
+endmodule//this is for end module
