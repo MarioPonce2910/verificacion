@@ -1,15 +1,10 @@
-C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv
-QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
--- Compiling module edge_mealy
-
-Top level modules:
-	edge_mealy
-
-} {} {}} C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
+C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
 QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
 -- Compiling module tb_fsm
+-- Compiling module tb_fsm_moore
 
 Top level modules:
 	tb_fsm
+	tb_fsm_moore
 
 } {} {}}

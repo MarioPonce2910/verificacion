@@ -1,54 +1,56 @@
 module register(
-    input wire clk,reset,load,bit0,bit1,bit2,bit3,
-    output reg finish = 0,
+    input wire clk,reset,load,
+    input wire [3:0] data_in,
+
+    output reg fn = 0,
     output reg tx = 0,
-    output reg [2:0] count = 0,
-    output reg [3:0] sender = 0
+    output reg [4:0] counter = 0
 );
+reg [4:0] register;
+reg [4:0] x = 0;
 
     
 
 always@(posedge clk)
     begin
-        count = count + 1;
         if (reset) begin
             tx = 0;
-            finish = 0;  
-            count = 0;          
+            fn = 0; 
+            x = 0;        
         end
         if (!reset)
             begin
                if (load) begin
-                    finish = 0;
-                    count = 0;
-                    sender[0] = bit0;
-                    sender[1] = bit1;
-                    sender[2] = bit2;
-                    sender[3] = bit3;
+                    fn = 0;
+                    register[0] <= data_in[0];
+                    register[1] <= data_in[1];
+                    register[2] <= data_in[2];
+                    register[3] <= data_in[3];
                 end 
                 if (!load) begin
-                        if (count == 1) begin
-                            tx = sender[0];
-                        end
-                        if (count == 2) begin
-                            tx = sender[1];
-                        end
-                        if (count == 3) begin
-                            tx = sender[2];
-                        end
-                        if (count == 4) begin
-                            tx = sender[3];
-                        end
-                        if (count > 4) begin
-                            count = 0;
-                            finish = 1;
-                        end
-                        
-                        
-                        
-                        
+                    x=x+1;
+                    if (x==1) begin
+                        tx <= register[0];
+                        counter = x;
+                    end
+                    if (x==2) begin
+                        tx <= register[1];
+                        counter = x;
+                    end
+                    if (x==3) begin
+                        tx <= register[2];
+                        counter = x;
+                    end
+                    if (x==4) begin
+                        tx <= register[3];
+                        counter = x;
+                    end
+                    if (x==5) begin
+                        x=0;
+                        fn = 1;
+                        counter = x;
+                    end
                 end 
-
             end
     end
 endmodule 

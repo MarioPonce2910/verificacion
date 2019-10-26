@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/comands
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1571501309
+VB6gC2[NFNb`Z6mF8e?Aeh2
+04 5 4 work TB_01 fast 0
+=1-a01d48b8a0b8-5dab34fc-1a5-20
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.2c;57
+vregister
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 !s110 1571501300
+IAE^bHzlNj5n:Jfi3cPZa<3
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 !s105 sv_1_sv_unit
+S1
+Z5 dC:/Users/mario.ponce.230/Desktop/Verificacion/comands
+Z6 w1571501284
+F4bits.sv
+Z7 8sv_1.sv
+Z8 Fsv_1.sv
+L0 1
+Z9 OL;L;10.2c;57
+r1
+31
+Z10 !s108 1571501300.058000
+Z11 !s107 4bits.sv|sv_1.sv|
+Z12 !s90 sv_1.sv|
+Z13 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 ^WO_Q3G7:U2SS1@PK;8^:0
+!i10b 1
+!s85 0
+!i111 0
+vTB_01
+R1
+R2
+I3Y<0[PbVPTSeSe;;U@BGQ0
+R3
+R4
+S1
+R5
+R6
+R7
+R8
+L0 5
+R9
+r1
+31
+R10
+R11
+R12
+R13
+n@t@b_01
+!i10b 1
+!s100 DR]HGLi6VDR<En>9aYfk50
+!s85 0
+!i111 0
+4TB_02
+R1
+R2
+IE?m_V`iFYfKEOP:ABQ5Ql0
+R3
+R4
+S1
+R5
+R6
+R7
+R8
+L0 47
+R9
+r1
+31
+R10
+R11
+R12
+R13
+n@t@b_02
+!i10b 1
+!s100 b[A:Y:2nUG8YF5JZ3`W@a2
+!s85 0
+!i111 0

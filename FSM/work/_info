@@ -3,62 +3,126 @@ K4
 z2
 13
 cModel Technology
-dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
 !s112 0.1
 !i10d 8192
 !i10e 25
 !i10f 100
 T_opt
-!s110 1567875269
-VUNCb=ZG20<EgV?L9Z]^@72
+VJ<0CaKWV>_I<Zz?IzdGe`2
 04 6 4 work tb_fsm fast 0
-=1-a01d48b8a0b8-5d73e0c4-3df-1044
-o-quiet -auto_acc_if_foreign -work work +acc
+=1-a01d48b8a0b8-5db3befa-1b8-19ec
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
 n@_opt
-OL;O;10.2c;57
+Z2 OL;O;10.2c;57
+Z3 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
+!s110 1572060922
+T_opt1
+VU?]klkfY?I>]USCzG3c^M2
+Z4 04 12 4 work tb_fsm_moore fast 0
+=1-a01d48b8a0b8-5d9bdfe3-37f-1188
+R1
+n@_opt1
+R2
+R3
+!s110 1570496485
+T_opt2
+!s110 1572061026
+V:Gz30b=Wo7iJIn?6o9JNj3
+R4
+=1-a01d48b8a0b8-5db3bf62-93-2e58
+R1
+n@_opt2
+R2
 vedge_mealy
-Z0 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-I7GzhWIeg0l:BP>7akzio61
-Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+I?1naiA[AX[Sz0Ij2a3hzZ1
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z7 !s105 fsm_sv_unit
 S1
-Z2 dC:/Users/mario.ponce.230/Desktop/Verificacion/FSM
-w1567874476
-8C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv
-FC:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv
-L0 1
-Z3 OL;L;10.2c;57
+Z8 dC:/Users/mario.ponce.230/Desktop/Verificacion/FSM
+Z9 w1572060863
+Z10 8C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv
+Z11 FC:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv
+L0 4
+Z12 OL;L;10.2c;57
 r1
 31
-Z4 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-Z5 !s110 1567875248
-!s100 W=_Vf7>0OlFVjmM2Ug>VX2
-!s105 fsm_sv_unit
-!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv|
-!s108 1567875248.065000
-!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv|
+Z13 !s108 1572060903.876000
+Z14 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/fsm.sv|
+Z16 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 LnFEk3@ij9d<c6X9^Aa[31
+!s110 1572060903
+!i10b 1
+!s85 0
+!i111 0
+vedge_moore
+R5
+ImgP[6YG`1;<C=DV6fb@Rh2
+R6
+R7
+S1
+R8
+R9
+R10
+R11
+L0 56
+R12
+r1
+31
+R13
+R14
+R15
+R16
+Z17 !s110 1572060904
+!s100 aD7M`D_5<>Wjk46GazGUD1
 !i10b 1
 !s85 0
 !i111 0
 vtb_fsm
-Z6 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
 R5
-I5d6@eGG:iCI6^@@0g4fJJ3
-R1
+R17
+Im5bSMlEz8L0`cYFnczPjZ1
+R6
+Z18 !s105 tb_sv_unit
 S1
-R2
-w1567875227
-8C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
-FC:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
+R8
+Z19 w1572060889
+Z20 8C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
+Z21 FC:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv
 L0 1
-R3
+R12
 r1
 31
-R4
-!s105 tb_sv_unit
-!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv|
+Z22 !s108 1572060904.188000
+Z23 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv|
+Z24 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv|
+R16
 !i10b 1
-!s100 LD^XGoBNc7S9`[eM8URXA2
+!s100 @k6:mNh]o`_h;ndl]?LoW3
 !s85 0
-!s108 1567875248.405000
-!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/FSM/tb.sv|
+!i111 0
+vtb_fsm_moore
+R5
+R17
+ILko4z`Qkc^DjFRGHQ^bWV1
+R6
+R18
+S1
+R8
+R19
+R20
+R21
+L0 68
+R12
+r1
+31
+R22
+R23
+R24
+R16
+!i10b 1
+!s100 _SQa1EWXLoUHz`j?0UEPR1
+!s85 0
 !i111 0

@@ -1,0 +1,5 @@
+crear carpeta para trabajar,
+vlib work crea la carpeta work
+vmap work work enlaza esta carpeta
+vlog sv_1.sv para compilar el proyecto
+para simular usamos vsim -c -do "run -all;q" TB_01

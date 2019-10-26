@@ -1,0 +1,26 @@
+# vsim -do {run -all;q} -c TB_01 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: sv_1.sv(43): (vopt-2241) Connection width does not match width of port 'q'. The port definition is at: sv_1.sv(47).
+# 
+# //  Questa Sim-64
+# //  Version 10.2c Unknown Platform Jul 19 2013
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.TB_01(fast)
+# Loading work.TB_02(fast)
+# ** Warning: (vsim-3015) sv_1.sv(43): [PCDPC] - Port size (4 or 4) does not match connection size (1) for port 'q'. The port definition is at: sv_1.sv(47).
+# 
+#         Region: /TB_01/TB
+# run -all 
+# program:
+# struct: '{q:Z}
+# struct: '{q:Z}
+# struct: '{q:Z}
