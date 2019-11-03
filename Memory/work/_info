@@ -1,0 +1,97 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/questasim64_10.2c/examples
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+VSemF9ZRL14]`oA=AM7fj;3
+Z1 04 11 4 work register_tb fast 0
+=1-a01d48b8a0b8-5db45f56-3a5-3b08
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.2c;57
+Z3 dC:/questasim64_10.2c/examples
+!s110 1572101975
+T_opt1
+!s110 1572105317
+V36W@8jdJJQADahAgieY]=0
+R1
+=1-a01d48b8a0b8-5db46c65-3c-ba4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+4program_tb
+Z4 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z5 !s110 1572105308
+Ihzk9JW;RL17]cC6<]dnaB3
+Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z7 !s105 tb_sv_unit
+S1
+Z8 dC:/Users/mario.ponce.230/Desktop/Verificacion/Memory
+Z9 w1572105306
+Z10 8tb.sv
+Z11 Ftb.sv
+L0 39
+Z12 OL;L;10.2c;57
+r1
+31
+Z13 !s108 1572105308.463000
+Z14 !s107 memory.sv|tb.sv|
+Z15 !s90 tb.sv|
+Z16 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 Af;@8ahCYGmW0PTC7FP[71
+!s85 0
+!i111 0
+vregister
+R4
+R5
+I6ThOO3kWzzFNb__2YFD;H1
+R6
+R7
+S1
+R8
+R9
+Fmemory.sv
+R10
+R11
+L0 1
+R12
+r1
+31
+R13
+R14
+R15
+R16
+!s100 =Q;[L`CkKhJ2b8GWfP<2z0
+!i10b 1
+!s85 0
+!i111 0
+vregister_tb
+R4
+R5
+IIbE<ZAR`QC>1BlTTB83e:1
+R6
+R7
+S1
+R8
+R9
+R10
+R11
+L0 5
+R12
+r1
+31
+R13
+R14
+R15
+R16
+!s100 HLMYl;?BSVW1oXYWKGOG>3
+!i10b 1
+!s85 0
+!i111 0

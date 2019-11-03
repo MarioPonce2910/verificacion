@@ -1,0 +1,15 @@
+C:/Users/mario.ponce.230/Desktop/Verificacion/Memory/memory.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/Memory/memory.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/mario.ponce.230/Desktop/Verificacion/Memory/tb.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/Memory/tb.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module register_tb
+
+Top level modules:
+	register_tb
+
+} {} {}}
