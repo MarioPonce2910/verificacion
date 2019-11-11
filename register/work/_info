@@ -18,55 +18,64 @@ Z3 OL;O;10.2c;57
 Z4 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
 !s110 1569076516
 T_opt1
-!s110 1571502266
-V=449`<;o14]SS9QG;BT8X1
+!s110 1572832921
+V9zUl>98IoAEMHE?9K[SmQ3
 R1
-=1-a01d48b8a0b8-5dab38b9-18f-ad8
+=1-a01d48b8a0b8-5dbf8698-190-15c
 R2
 n@_opt1
 R3
+T_opt2
+Vo`2lH:HP?4fKGU6H4:YLE2
+R1
+=1-a01d48b8a0b8-5dbf7fa8-23b-5104
+o-quiet -auto_acc_if_foreign -work work
+n@_opt2
+R3
+R4
+!s110 1572831145
 vregister
 Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-IWOfzM]gGI]N[@N=Mm]joY0
-Z6 V`JN@9S9cnhjKRR_L]QIcM3
+Z6 !s110 1572832904
+IBGKXo@N[iZ_DB^o]VK3=H0
+Z7 V`JN@9S9cnhjKRR_L]QIcM3
 S1
-Z7 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
-w1571502247
+Z8 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
+w1572832792
 8C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
 FC:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
 L0 1
-Z8 OL;L;10.2c;57
+Z9 OL;L;10.2c;57
 r1
 31
-Z9 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z10 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 7;<0>XMGY0X`JUSbR^kHY0
 !s105 _4bits_sv_unit
 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
-!s110 1571502254
 !i10b 1
-!s100 fVnc99`hE5j[lXV>>A=Ql3
 !s85 0
-!s108 1571502253.909000
+!s108 1572832904.912000
 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
 !i111 0
 vregister_tb
 R5
-Ie:iQfG>EYihHQ4QDHV2fY3
-R6
-S1
+IXAN^R`Ao75cJ:=LY77AXO1
 R7
-w1571501676
+S1
+R8
+w1572832890
 8C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
 FC:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
 L0 1
-R8
+R9
 r1
 31
-R9
-!s100 :oUFLfmV<1FF0X2KGR0H:3
+R10
+R6
 !s105 tb_sv_unit
 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
-!s110 1571502253
-!s108 1571502253.603000
+!s100 =;WHFXoD]L<XD=g_4695n1
+!s108 1572832904.568000
 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
 !i10b 1
 !s85 0
