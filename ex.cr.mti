@@ -1,0 +1,16 @@
+C:/Users/mario.ponce.230/Desktop/Verificacion/ex.sv {1 {vlog -work work -vopt -sv {C:\Users\mario.ponce.230\Desktop\Verificacion\ex.sv}
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module exam
+
+Top level modules:
+	exam
+
+} {} {}} C:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv {1 {vlog -work work -vopt -sv C:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+-- Compiling module exam
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

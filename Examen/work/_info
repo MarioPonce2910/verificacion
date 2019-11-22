@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/Examen
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1573924329
+VeL6oKAIBbcj<XZ?Tbk3k62
+04 2 4 work tb fast 0
+=1-a01d48b8a0b8-5dd02de8-1d4-1d90
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.2c;57
+vexam
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 !s110 1573924322
+Ii268UG]HYI`lZ]Mj9?X?82
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 !s105 tb_sv_unit
+S1
+Z5 dC:/Users/mario.ponce.230/Desktop/Verificacion/Examen
+w1573924316
+Fex.sv
+Z6 8tb.sv
+Z7 Ftb.sv
+L0 1
+Z8 OL;L;10.2c;57
+r1
+31
+Z9 !s108 1573924322.828000
+Z10 !s107 ex.sv|tb.sv|
+Z11 !s90 tb.sv|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 WW`aV2I><mjSn[7UI[TMH0
+!s85 0
+!i111 0
+4program_tb
+R1
+R2
+I6NfoF]8DIT=2DNmo3B1eO0
+R3
+R4
+S1
+R5
+Z13 w1573924255
+R6
+R7
+L0 38
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 ?eD65Jmc:NjZVbBKi0dhn3
+!i10b 1
+!s85 0
+!i111 0
+vtb
+R1
+R2
+I2JWb;m:>4^eWfJjOHo@[P2
+R3
+R4
+S1
+R5
+R13
+R6
+R7
+L0 5
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 V8zHCUDh?@Ga>U7:UD6Kl3
+!i10b 1
+!s85 0
+!i111 0

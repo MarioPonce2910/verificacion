@@ -1,0 +1,11 @@
+# Break key hit 
+# vsim -do {run -all;q} -c tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# Break key hit 
+# ** Fatal: (SIGINT) Compile interrupted.
+# ** Warning: (vopt-31) Unable to unlink file "C:/Users/MARIOP~1.230/AppData/Local/Temp/cpydat86883s".
+# 
+# Access is denied. (GetLastError() = 5)
+# ** Fatal: Unexpected signal: 11.
+# Error loading design

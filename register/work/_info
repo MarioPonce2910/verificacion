@@ -9,74 +9,75 @@ Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
 !i10e 25
 !i10f 100
 T_opt
-VQMH8]OQ1lnH5O_@=J<MZC2
-Z1 04 11 4 work register_tb fast 0
-=1-a01d48b8a0b8-5d863524-85-2550
-Z2 o-quiet -auto_acc_if_foreign -work work +acc
-n@_opt
-Z3 OL;O;10.2c;57
-Z4 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
-!s110 1569076516
+Z1 VQMH8]OQ1lnH5O_@=J<MZC2
+Z2 04 11 4 work register_tb fast 0
+Z3 =1-a01d48b8a0b8-5d863524-85-2550
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dC:/Users/mario.ponce.230/Desktop/Verificacion/Actividad1
+Z8 !s110 1569076516
 T_opt1
-!s110 1572832921
-V9zUl>98IoAEMHE?9K[SmQ3
-R1
-=1-a01d48b8a0b8-5dbf8698-190-15c
+Z9 V9zUl>98IoAEMHE?9K[SmQ3
 R2
-n@_opt1
-R3
-T_opt2
-Vo`2lH:HP?4fKGU6H4:YLE2
-R1
-=1-a01d48b8a0b8-5dbf7fa8-23b-5104
-o-quiet -auto_acc_if_foreign -work work
-n@_opt2
-R3
+Z10 =1-a01d48b8a0b8-5dbf8698-190-15c
 R4
-!s110 1572831145
-vregister
-Z5 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-Z6 !s110 1572832904
-IBGKXo@N[iZ_DB^o]VK3=H0
-Z7 V`JN@9S9cnhjKRR_L]QIcM3
-S1
-Z8 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
-w1572832792
-8C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
-FC:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
-L0 1
-Z9 OL;L;10.2c;57
-r1
-31
-Z10 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
-!s100 7;<0>XMGY0X`JUSbR^kHY0
-!s105 _4bits_sv_unit
-!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
-!i10b 1
-!s85 0
-!s108 1572832904.912000
-!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
-!i111 0
-vregister_tb
-R5
-IXAN^R`Ao75cJ:=LY77AXO1
-R7
-S1
-R8
-w1572832890
-8C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
-FC:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
-L0 1
-R9
-r1
-31
-R10
+Z11 n@_opt1
 R6
-!s105 tb_sv_unit
-!s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
-!s100 =;WHFXoD]L<XD=g_4695n1
-!s108 1572832904.568000
-!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
+R7
+Z12 !s110 1572832921
+T_opt2
+Z13 Vo`2lH:HP?4fKGU6H4:YLE2
+R2
+Z14 =1-a01d48b8a0b8-5dbf7fa8-23b-5104
+Z15 o-quiet -auto_acc_if_foreign -work work
+Z16 n@_opt2
+R6
+R7
+Z17 !s110 1572831145
+vregister
+Z18 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+!s110 1574387001
+!i10b 1
+Z19 !s100 7;<0>XMGY0X`JUSbR^kHY0
+Z20 IBGKXo@N[iZ_DB^o]VK3=H0
+Z21 V`JN@9S9cnhjKRR_L]QIcM3
+Z22 !s105 _4bits_sv_unit
+S1
+Z23 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
+w1573514690
+Z24 8C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
+Z25 FC:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv
+L0 1
+Z26 OL;L;10.2c;57
+r1
+!s85 0
+31
+!s108 1574387000.905000
+!s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
+Z27 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/4bits.sv|
+!i111 0
+Z28 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vregister_tb
+R18
+Z29 !s100 =;WHFXoD]L<XD=g_4695n1
+Z30 IXAN^R`Ao75cJ:=LY77AXO1
+R21
+Z31 !s105 tb_sv_unit
+S1
+R23
+Z32 w1573514689
+Z33 8C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
+Z34 FC:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv
+L0 1
+R26
+r1
+31
+Z35 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
+R28
+Z36 !s110 1574387000
 !i10b 1
 !s85 0
+Z37 !s108 1574387000.388000
+Z38 !s107 C:/Users/mario.ponce.230/Desktop/Verificacion/register/tb.sv|
 !i111 0
