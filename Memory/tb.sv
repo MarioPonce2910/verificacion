@@ -37,21 +37,30 @@ module register_tb ();
 endmodule
 
 program program_tb (
-    input wire clk, rst, wr, enable,
-    output wire [7:0] add,
-    output wire [7:0] data_in,
-    output reg [7:0] data_out
+    input wire clk,
+    output reg rst, wr, enable,
+    output reg [7:0] add,
+    output reg [7:0] data_in,
+    output wire [7:0] data_out
 );
 
-reg [7:0] i;
+reg [7:0] i = 0;
+
 initial begin
-    $monitor("out : %p" , data_out);
-    repeat (20) begin
-        i = i + 1;
+    repeat (1) begin
+        i = i+1;
+        enable = 1'b1;
+        wr = 1'b1;
+        data_in = 5 * i;
         #5
-        data_out = 10;
-        $display("clk : %p", clk);
-        $display("counter : %p", i);
+        $display("in : %p", data_in);
+        $display("out : %p" , data_out);
+        enable = 1'b1;
+        wr = 1'b0;
+        data_in = 5 * i;
+        #5
+        $display("in : %p", data_in);
+        $display("out : %p" , data_out);
     end
 end
 

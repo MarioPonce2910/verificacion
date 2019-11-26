@@ -61,6 +61,7 @@ program TB_02 #(byte size = 4) (input bit clk, input wire [3:0] q);
     @(posedge clk);
     show_counter.q = q;
     $display("struct: %p",show_counter);
+    
     end
 endprogram
 
