@@ -1,0 +1,50 @@
+# vsim -do {run -all;q} -c memory_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# //  Questa Sim-64
+# //  Version 10.2c Unknown Platform Jul 19 2013
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.memory_tb(fast)
+# Loading work.program_tb(fast)
+# run -all 
+# data_out_16b : 0000000000000000
+# data_in_8b : 00000000
+# address8b : 00000000
+# data_out_16b : 0000000000000101
+# data_in_8b : 00000101
+# address8b : 00000000
+# data_out_16b : 0000001110000100
+# data_in_8b : 10000100
+# address8b : 00000011
+# data_out_16b : 0000000000000110
+# data_in_8b : 00000110
+# address8b : 00000000
+# data_out_16b : 0000011100001000
+# data_in_8b : 00001000
+# address8b : 00000111
+# data_out_16b : 0000000000000111
+# data_in_8b : 00000111
+# address8b : 00000000
+# data_out_16b : 0000101010001100
+# data_in_8b : 10001100
+# address8b : 00001010
+# data_out_16b : 0000000000001000
+# data_in_8b : 00001000
+# address8b : 00000000
+# data_out_16b : 0000111000010000
+# data_in_8b : 00010000
+# address8b : 00001110
+# data_out_16b : 0000000000001001
+# data_in_8b : 00001001
+# address8b : 00000000
+# Break at tb.sv line 97
+# Stopped at tb.sv line 97 
+# q 

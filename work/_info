@@ -3,63 +3,64 @@ K4
 z2
 13
 cModel Technology
-dC:/Users/mario.ponce.230/Desktop/Verificacion/register
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
 !s112 0.1
 !i10d 8192
 !i10e 25
 !i10f 100
 T_opt
-!s110 1573921892
-V>T2dKLdb_k0]_:OBeRdV[1
-04 2 4 work tb fast 0
-=1-a01d48b8a0b8-5dd02463-217-1954
-o-quiet -auto_acc_if_foreign -work work +acc
-n@_opt
-OL;O;10.2c;57
+Z1 V>T2dKLdb_k0]_:OBeRdV[1
+Z2 04 2 4 work tb fast 0
+Z3 =1-a01d48b8a0b8-5dd02463-217-1954
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.2c;57
+Z7 dC:/Users/mario.ponce.230/Desktop/Verificacion/register
+Z8 !s110 1573921892
 vexam
-Z0 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-Z1 !s110 1573921857
-Icd]mBQ18369EKm:bYC`<Z3
-Z2 V`JN@9S9cnhjKRR_L]QIcM3
-Z3 !s105 tb_sv_unit
-S1
-Z4 dC:/Users/mario.ponce.230/Desktop/Verificacion
-w1573921852
-Fex.sv
-Z5 8C:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv
-Z6 FC:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv
-L0 1
-Z7 OL;L;10.2c;57
-r1
-31
-Z8 !s108 1573921857.287000
-Z9 !s107 ex.sv|C:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv|
-Z10 !s90 -reportprogress|300|-work|work|-vopt|-sv|C:/Users/mario.ponce.230/Desktop/Verificacion/tb.sv|
-Z11 o-work work -sv -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z10 !s110 1574883426
 !i10b 1
-!s100 m9DG@f[c`nZS>MQ4;4cX`3
-!s85 0
-!i111 0
-vtb
-Z12 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-R1
-IMg?Je3__gWD17=`]JD22C0
-R2
-R3
+Z11 !s100 m9DG@f[c`nZS>MQ4;4cX`3
+Z12 I;M1TV>`i__IVUUbOzD[PF2
+Z13 V`JN@9S9cnhjKRR_L]QIcM3
+Z14 !s105 tb_sv_unit
 S1
-R4
-w1573920368
-R5
-R6
-L0 5
-R7
+Z15 dC:/Users/mario.ponce.230/Desktop/Verificacion
+Z16 w1573921852
+Z17 Fex.sv
+Z18 8tb.sv
+Z19 Ftb.sv
+L0 1
+Z20 OL;L;10.2c;57
 r1
+!s85 0
 31
-R8
+Z21 !s108 1574883426.751000
+Z22 !s107 ex.sv|tb.sv|
+Z23 !s90 tb.sv|
+!i111 0
+Z24 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vtb
 R9
 R10
-R11
-!s100 ;E@SMKGT>h?Je:kM:;lNP2
 !i10b 1
+Z25 !s100 ;E@SMKGT>h?Je:kM:;lNP2
+Z26 IzmLeQN]85m?HhkgnFX5SX2
+R13
+R14
+S1
+R15
+Z27 w1573920368
+R18
+R19
+L0 5
+R20
+r1
 !s85 0
+31
+R21
+R22
+R23
 !i111 0
+R24

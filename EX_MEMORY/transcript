@@ -1,5 +1,13 @@
 # vsim -do {run -all;q} -c memory_tb 
-# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Warning: exm.sv(69): (vopt-2685) [TFMPC] - Too few port connections for 'memory16b'.  Expected 5, found 4.
+# 
+# ** Warning: exm.sv(69): (vopt-2718) [TFMPC] - Missing connection for port 'data_in'.
+# 
+# ** Warning: exm.sv(75): (vopt-2685) [TFMPC] - Too few port connections for 'memory8b'.  Expected 5, found 4.
+# 
+# ** Warning: exm.sv(75): (vopt-2718) [TFMPC] - Missing connection for port 'data_out'.
 # 
 # //  Questa Sim-64
 # //  Version 10.2c Unknown Platform Jul 19 2013
@@ -16,15 +24,15 @@
 # run -all 
 # FSM : xxx
 # clk : 0
-# add_Wrire : 00000000
-# data_write : 00001111
-# end : 1
+# add_Wrire : xxxxxxxx
+# data_write : xxxxxxxx
+# end : 0
 # FSM : 000
-# end : 1
+# end : 0
 # clk : 0
-# add_Wrire : 00000000
-# data_write : 00000001
-# end : 1
+# add_Wrire : xxxxxxxx
+# data_write : xxxxxxxx
+# end : 0
 # FSM : 000
 # Break at tb.sv line 66
 # Stopped at tb.sv line 66 

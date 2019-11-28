@@ -1,0 +1,6 @@
+# vsim -do {run -all;q} -c fsm_tb 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Error: Failed to find design unit work.fsm_tb.
+# Optimization failed
+# Error loading design

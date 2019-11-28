@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/Proyecto
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+T_opt
+!s110 1574907413
+VoRNR<[S^cf`Y[k_moG33<2
+04 6 4 work fsm_tb fast 0
+=1-a01d48b8a0b8-5ddf2e14-283-1e4c
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.2c;57
+vfsm
+Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
+Z2 !s110 1574907404
+I:HSVFDUADDRnQP^O6fECV2
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 !s105 tb_sv_unit
+S1
+Z5 dC:/Users/mario.ponce.230/Desktop/Verificacion/Proyecto
+w1574907401
+Ffsm.sv
+Z6 8tb.sv
+Z7 Ftb.sv
+L0 1
+Z8 OL;L;10.2c;57
+r1
+31
+Z9 !s108 1574907404.467000
+Z10 !s107 memory8b.sv|memory16b.sv|fsm.sv|tb.sv|
+Z11 !s90 tb.sv|
+Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 ZPGc:H^i88FE2K^E2fOhO3
+!s85 0
+!i111 0
+vfsm_tb
+R1
+R2
+Ia[ZbIU2QBJ=S88hMgjIR:2
+R3
+R4
+S1
+R5
+Z13 w1574907267
+R6
+R7
+L0 7
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 6G<NXaH::8idb694`V3=00
+!i10b 1
+!s85 0
+!i111 0
+vmemory16b
+R1
+R2
+I?Y_DT:TDIia48cO_5Nh;`1
+R3
+R4
+S1
+R5
+R13
+Fmemory16b.sv
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 iBo`BhB`jl^zHX723Y6ba1
+!i10b 1
+!s85 0
+!i111 0
+vmemory8b
+R1
+R2
+IoRiQz45F65`3L8ZZAnmTZ1
+R3
+R4
+S1
+R5
+R13
+Fmemory8b.sv
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 EgeDk476Oi]mQcnT2FhG53
+!i10b 1
+!s85 0
+!i111 0
+4program_tb
+R1
+R2
+IT0@MlR>CCM4ZIeEaR5:M>3
+R3
+R4
+S1
+R5
+R13
+R6
+R7
+L0 61
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!s100 ]j4[86TY8U;XUHXiNfkeM3
+!i10b 1
+!s85 0
+!i111 0

@@ -1,0 +1,36 @@
+# vsim -do {run -all;q} -c fsm_tb 
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# 
+# ** Warning: fsm.sv(35): (vopt-2241) Connection width does not match width of port 'rw'. The port definition is at: memory16b.sv(2).
+# 
+# ** Warning: fsm.sv(35): (vopt-2241) Connection width does not match width of port 'rw_tb'. The port definition is at: memory16b.sv(10).
+# 
+# ** Warning: tb.sv(35): (vopt-2241) Connection width does not match width of port 'rw_tb'. The port definition is at: fsm.sv(11).
+# 
+# ** Warning: fsm.sv(42): (vopt-2685) [TFMPC] - Too few port connections for 'memory8b'.  Expected 6, found 5.
+# 
+# ** Warning: fsm.sv(42): (vopt-2718) [TFMPC] - Missing connection for port 'data_out'.
+# 
+# //  Questa Sim-64
+# //  Version 10.2c Unknown Platform Jul 19 2013
+# //
+# //  Copyright 1991-2013 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# Loading sv_std.std
+# Loading work.fsm_tb(fast)
+# Loading work.program_tb(fast)
+# run -all 
+# data in : xxxxxxxxxxxxxxxx
+# data read : xxxxxxxxxxxxxxxx
+# rw : 0
+# data read : xxxxxxxxxxxxxxxx
+# output : xxxxxxxx
+# FSM : 000
+# Break at tb.sv line 109
+# Stopped at tb.sv line 109 
+# q 

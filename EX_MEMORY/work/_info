@@ -9,57 +9,105 @@ Z0 dC:/Users/mario.ponce.230/Desktop/Verificacion/EX_MEMORY
 !i10e 25
 !i10f 100
 T_opt
-!s110 1574530098
-VS[hOb2VU8BTF^0F1`N3UX2
+!s110 1574798829
+VgVW9aLNLOEDZ>4knWJdUX0
 04 9 4 work memory_tb fast 0
-=1-a01d48b8a0b8-5dd96c31-e6-960
+=1-a01d48b8a0b8-5ddd85ec-312-31ac
 o-quiet -auto_acc_if_foreign -work work
 n@_opt
 OL;O;10.2c;57
 vmemory
 Z1 DXx6 sv_std 3 std 0 22 `a<MJET1=lN@jzbA7kHm;1
-Z2 !s110 1574530088
-I0Znb;VhJK1f@VA^2A7B8F0
+Z2 !s110 1574798821
+IzZ5mQM5JH?:eziVT;f8Am0
 Z3 V`JN@9S9cnhjKRR_L]QIcM3
 Z4 !s105 tb_sv_unit
 S1
 Z5 dC:/Users/mario.ponce.230/Desktop/Verificacion/EX_MEMORY
-w1574530082
-Fexm.sv
-Z6 8tb.sv
-Z7 Ftb.sv
-L0 1
-Z8 OL;L;10.2c;57
+Z6 w1574798816
+Z7 Fexm.sv
+Z8 8tb.sv
+Z9 Ftb.sv
+L0 45
+Z10 OL;L;10.2c;57
 r1
 31
-Z9 !s108 1574530087.963000
-Z10 !s107 exm.sv|tb.sv|
-Z11 !s90 tb.sv|
-Z12 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z11 !s108 1574798821.501000
+Z12 !s107 exm.sv|tb.sv|
+Z13 !s90 tb.sv|
+Z14 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
 !i10b 1
-!s100 HHhA2z0fR`DWeDPRhc29l3
+!s100 5kU4C3kR>Am_DiLH``]0T1
+!s85 0
+!i111 0
+vmemory16b
+R1
+R2
+I1?YJYK^GXUzC0[P2VPk3g0
+R3
+R4
+S1
+R5
+R6
+R7
+R8
+R9
+L0 1
+R10
+r1
+31
+R11
+R12
+R13
+R14
+!i10b 1
+!s100 JQW;70OK9@=RPV<5ozc3@3
+!s85 0
+!i111 0
+vmemory8b
+R1
+R2
+I@NG4Wh7WJfWE<6983@jSX0
+R3
+R4
+S1
+R5
+R6
+R7
+R8
+R9
+L0 23
+R10
+r1
+31
+R11
+R12
+R13
+R14
+!i10b 1
+!s100 H4CazPESNi8=<j52KLY_i2
 !s85 0
 !i111 0
 vmemory_tb
 R1
 R2
+!s100 T8F[4dh8KF^lOeXga>^>S1
 Ik^h43dfVz;7QKhbXYmo<43
 R3
 R4
 S1
 R5
 w1574529984
-R6
-R7
-L0 5
 R8
+R9
+L0 5
+R10
 r1
 31
-R9
-R10
 R11
 R12
-!s100 T8F[4dh8KF^lOeXga>^>S1
+R13
+R14
 !i10b 1
 !s85 0
 !i111 0
